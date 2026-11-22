@@ -1,0 +1,7 @@
+transformers>=4.51
+peft>=0.14
+trl>=0.15
+datasets
+accelerate
+requests
+numpy
